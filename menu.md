@@ -1,4 +1,4 @@
-mac2
+Master
 Added untracked  file
 MacBranch Menu 1
 MacBranch Menu 2
