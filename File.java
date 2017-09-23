@@ -1,7 +1,7 @@
 public class abc
 {
 
-  public void mac()
+  public void mac1()
   {
 
   }
