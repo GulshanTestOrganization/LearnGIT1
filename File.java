@@ -7,6 +7,10 @@ public class abc
   }
   public void mac5()
   {
-    
+
+  }
+  pubic void mac6()
+  {
+
   }
 }
